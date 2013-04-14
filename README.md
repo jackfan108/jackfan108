@@ -1,2 +1,2 @@
-first test
+first test \n
 second test
